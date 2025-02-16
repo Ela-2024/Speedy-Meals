@@ -1,0 +1,38 @@
+ /* Dashboard.css */
+ .meals-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .meals-table th,
+  .meals-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .meals-table th {
+    background-color: #f8f9fa;
+    font-weight: 600;
+  }
+  
+  .star-icon {
+    color: gold;
+    margin-left: 8px;
+  }
+  
+  .filter-buttons {
+    display: flex;
+    gap: 10px;
+    margin: 20px 0;
+  }
+  
+  .add-meal-link {
+    margin: 20px 0;
+  }
+  
+  .add-meal-link a {
+    color: #0066cc;
+    text-decoration: none;
+  }

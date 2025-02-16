@@ -1,0 +1,35 @@
+.meal-details {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .detail-row {
+    margin-bottom: 24px;
+  }
+  
+  .detail-row h3 {
+    color: #333;
+    font-size: 1.2rem;
+    margin-bottom: 8px;
+  }
+  
+  .detail-row p {
+    color: #666;
+    line-height: 1.5;
+  }
+  
+  .detail-row ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .detail-row li {
+    padding: 4px 0;
+    color: #666;
+  }
+  
+  .delete-button {
+    margin-top: 20px;
+  }
